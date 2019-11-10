@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <math.h>
 #include <string>
+#include <fstream>
 
 using namespace std;
 
@@ -74,12 +75,12 @@ int main()
 			start=clock();
 			c = find_c(a, b, k);
 			stop=clock();
-			cout << "Time1: " << stop-start << endl;
+			//cout << "Time1: " << stop-start << endl;
 
 			start=clock();
 			cout << "C_real: " << find_c_2(a, b, k) << endl;
 			stop=clock();
-			cout << "Time2: " << stop-start << endl;
+			//cout << "Time2: " << stop-start << endl;
 		}
 
 		cout << "C: " << c << endl;
