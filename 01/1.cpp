@@ -21,7 +21,7 @@ int main()
         else
         {
            int row_no = ((seat-2) / 5) + 1;
-	   
+       
            string dir;
            int help = (seat % 10);
            if(0 <= help && help <= 3) dir = 'L';
