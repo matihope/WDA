@@ -4,9 +4,6 @@
  
 using namespace std;
 struct xyz {
-    xyz() {
- 
-    }
     xyz(int xx, int yy, int zz) {
         x = xx;
         y = yy;

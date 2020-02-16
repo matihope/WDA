@@ -28,13 +28,13 @@ WDA TODO:
   - [x] MWP2_3C - Permutacje
 
 - [ ] 5
-  - [ ] One Geometry Problem
+  - [x] One Geometry Problem
   - [ ] Ranges
   - [ ] AMR11E - Distinct Primes
   - [ ] JAVAC
 
 - [ ] 6
-  - [ ] FCTRL2 - Small factorials
+  - [x] FCTRL2 - Small factorials
   - [ ] BISHOPS - Bishops
 
 - [ ] 7
@@ -45,7 +45,16 @@ WDA TODO:
 - [ ] 8
   - [ ] HASHIT - Hash it!
 
-- [ ] 9
+- [x] 9
   - [x] Karol's payment
-  - [ ] Poland's annual expenses
-  - [ ] difficult exams
+  - [x] Poland's annual expenses
+  - [x] difficult exams
+
+- [ ] 10
+  - [x] Pinezki
+  - [x] Urlop
+  - [ ] Karol's tables
+
+
+ - [ ] Term
+   - [ ] 
