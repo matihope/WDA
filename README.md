@@ -18,8 +18,8 @@ WDA TODO:
 
 - [ ] 3
   - [x] XYZSORT - Sortowanie punktów
-  - [ ] ARRANGE - Arranging Amplifiers
-  - [ ] INVCNT - Inversion Count
+  - [x] ARRANGE - Arranging Amplifiers
+  - [x] INVCNT - Inversion Count
   - [x] SHAKTI - SHAKTIMAN AND KILWISH
 
 - [ ] 4
